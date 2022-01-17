@@ -1,0 +1,9 @@
+p{
+    background-color: yellow;
+    border: 1px solid black;
+    height: 80px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
